@@ -1,0 +1,2 @@
+Matrix Inverse: https://www.mathsisfun.com/algebra/matrix-inverse.html
+Determinant of a Matrix: https://www.mathsisfun.com/algebra/matrix-determinant.html
