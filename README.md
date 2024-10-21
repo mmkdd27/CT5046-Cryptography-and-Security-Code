@@ -35,7 +35,7 @@ CT5046 Cryptography & Security (FHM FHM_SEM1 - 2024/25) :notebook:
 - Week 10: [Applications of Cryptography III](#)
 
 ## lectures(2023-2024): :book:
-- Week 1 :[Module Overview](https://github.com/mmkdd27/CT5046-Cryptography-and-Security-Code/blob/947e61d95125a73b2e21e546adc6e3aef27dd836/2023-2024%20Material/Lectures/Introduction%20to%20Cryptography.pptx
+- Week 1 :[Module Overview](https://github.com/mmkdd27/CT5046-Cryptography-and-Security-Code/blob/947e61d95125a73b2e21e546adc6e3aef27dd836/2023-2024%20Material/Lectures/Introduction%20to%20Cryptography.pptx)
 - Week 2: [Mathematics for Cryptography I](https://github.com/mmkdd27/CT5046-Cryptography-and-Security-Code/blob/947e61d95125a73b2e21e546adc6e3aef27dd836/2023-2024%20Material/Lectures/Week1.pdf)
 - Week 3: [Mathematics for Cryptography II](https://github.com/mmkdd27/CT5046-Cryptography-and-Security-Code/blob/947e61d95125a73b2e21e546adc6e3aef27dd836/2023-2024%20Material/Lectures/wk%202%20lecture.pdf)
 - Week 4: [Symmetric Encryption I](https://github.com/mmkdd27/CT5046-Cryptography-and-Security-Code/blob/947e61d95125a73b2e21e546adc6e3aef27dd836/2023-2024%20Material/Lectures/Week3Lecture.pdf)
