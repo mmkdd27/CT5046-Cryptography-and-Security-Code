@@ -1,6 +1,6 @@
 # CT5046 Cryptography and Security Code and Files
 CT5046 Cryptography & Security (FHM FHM_SEM1 - 2024/25) :notebook:
-- **Module Tutor:**  Nasreen Anjum (Dr) :woman_teacher:
+- **Module Tutor:**  Hassan Chizari (Dr) :man_teacher:
 ## Student Information:
 - **Name:** Mohammad Mehdi Kadkoodazadeh :man_student:
 - **Student Number:** 4326630 :mortar_board:
@@ -8,29 +8,6 @@ CT5046 Cryptography & Security (FHM FHM_SEM1 - 2024/25) :notebook:
 > **_If you are a student and want to collaborate or have a question don't hesitate to message me on WhatsApp! +98 9025635100_**
   
 ## Table of Contents: Practical exercises/Lab :pencil2:
-- **Week 1 - Module Overview
-  - Exercise 1: [](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%201%20-%20Session%201/Km_to_Miles_Converter.py)
-  - Exercise 2: [Celsius_to_Fahrenheit_Converter.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%201%20-%20Session%201/Celsius_to_Fahrenheit_Converter.py)
-  - Exercise 3: [Retirement_Age.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%201%20-%20Session%201/Retirement_Age.py)
-
-
-
-## Table of Contents: Challenges :pencil2:
-This section os dedicated to chalnges or questions that are not included in the material but are introduced during module delivery
-- ## **Day 1 Challenges**
- <!-- - Challenge File: [](#)
-    - Description: -->
-- ## **Day 2 Challenges**
- <!-- - Challenge File: [](#)
-    - Description: -->
- - ## **Day 3 Challenges**
- <!-- - Challenge File: [](#)
-    - Description: -->
-- ## **Day 4 Challenges**
-
-- ## **Day 5 Challenges**
- <!-- - Challenge File: [](#)
-    - Description: -->
 
 
   ## Practical exercises/Lab  :books:
