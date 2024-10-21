@@ -11,10 +11,10 @@ CT5046 Cryptography & Security (FHM FHM_SEM1 - 2024/25) :notebook:
 
 
   ## Practical exercises/Lab  :books:
-- Week 1 :[Module Overview](#)
-- Week 2: [Mathematics for Cryptography I](#)
-- Week 3: [Mathematics for Cryptography II](#)
-- Week 4: [Symmetric Encryption I](#)
+- Week 1 :[Module Overview]((https://github.com/mmkdd27/CT5046-Cryptography-and-Security-Code/blob/947e61d95125a73b2e21e546adc6e3aef27dd836/Week_1/Week%201%20-%20Practical.pptx))
+- Week 2: [Mathematics for Cryptography I](https://github.com/mmkdd27/CT5046-Cryptography-and-Security-Code/blob/947e61d95125a73b2e21e546adc6e3aef27dd836/Week_2/Week%202%20-%20Practical%20(2).pptx)
+- Week 3: [Mathematics for Cryptography II](https://github.com/mmkdd27/CT5046-Cryptography-and-Security-Code/blob/947e61d95125a73b2e21e546adc6e3aef27dd836/Week_3/Week%203%20-%20Practical.pptx)
+- Week 4: [Symmetric Encryption I](https://github.com/mmkdd27/CT5046-Cryptography-and-Security-Code/blob/947e61d95125a73b2e21e546adc6e3aef27dd836/Week_4/Week%204%20-%20Practical.pptx)
 - Week 5: [Symmetric Encryption II](#)
 - Week 6: [Hashing](#)
 - Week 7: [Asymmetric encryption](#)
@@ -23,16 +23,28 @@ CT5046 Cryptography & Security (FHM FHM_SEM1 - 2024/25) :notebook:
 - Week 10: [Applications of Cryptography III](#)
     
 ## lectures: :book:
-- Week 1 :[Module Overview](#)
-- Week 2: [Mathematics for Cryptography I](#)
-- Week 3: [Mathematics for Cryptography II](#)
-- Week 4: [Symmetric Encryption I](#)
+- Week 1 :[Module Overview](https://github.com/mmkdd27/CT5046-Cryptography-and-Security-Code/blob/947e61d95125a73b2e21e546adc6e3aef27dd836/Lectures/Week%201%20-%20Intro%20(1).pptx)
+- Week 2: [Mathematics for Cryptography I](https://github.com/mmkdd27/CT5046-Cryptography-and-Security-Code/blob/947e61d95125a73b2e21e546adc6e3aef27dd836/Lectures/Week%202%20-%20Lecture%20(2).pptx)
+- Week 3: [Mathematics for Cryptography II](https://github.com/mmkdd27/CT5046-Cryptography-and-Security-Code/blob/947e61d95125a73b2e21e546adc6e3aef27dd836/Lectures/Week%203%20-%20Lecture.pptx)
+- Week 4: [Symmetric Encryption I](https://github.com/mmkdd27/CT5046-Cryptography-and-Security-Code/blob/947e61d95125a73b2e21e546adc6e3aef27dd836/Lectures/Week%202%20-%20Lecture%20(2).pptx)
 - Week 5: [Symmetric Encryption II](#)
 - Week 6: [Hashing](#)
 - Week 7: [Asymmetric encryption](#)
 - Week 8: [Applications of Cryptography I](#)
 - Week 9: [Applications of Cryptography II](#)
 - Week 10: [Applications of Cryptography III](#)
+
+## lectures(2023-2024): :book:
+- Week 1 :[Module Overview](https://github.com/mmkdd27/CT5046-Cryptography-and-Security-Code/blob/947e61d95125a73b2e21e546adc6e3aef27dd836/2023-2024%20Material/Lectures/Introduction%20to%20Cryptography.pptx
+- Week 2: [Mathematics for Cryptography I](https://github.com/mmkdd27/CT5046-Cryptography-and-Security-Code/blob/947e61d95125a73b2e21e546adc6e3aef27dd836/2023-2024%20Material/Lectures/Week1.pdf)
+- Week 3: [Mathematics for Cryptography II](https://github.com/mmkdd27/CT5046-Cryptography-and-Security-Code/blob/947e61d95125a73b2e21e546adc6e3aef27dd836/2023-2024%20Material/Lectures/wk%202%20lecture.pdf)
+- Week 4: [Symmetric Encryption I](https://github.com/mmkdd27/CT5046-Cryptography-and-Security-Code/blob/947e61d95125a73b2e21e546adc6e3aef27dd836/2023-2024%20Material/Lectures/Week3Lecture.pdf)
+- Week 5: [Symmetric Encryption II](https://github.com/mmkdd27/CT5046-Cryptography-and-Security-Code/blob/947e61d95125a73b2e21e546adc6e3aef27dd836/2023-2024%20Material/Lectures/Week5Lecture.pdf)
+- Week 6: [Hashing](https://github.com/mmkdd27/CT5046-Cryptography-and-Security-Code/blob/947e61d95125a73b2e21e546adc6e3aef27dd836/2023-2024%20Material/Lectures/Week6Lecture.pdf)
+- Week 7: [Asymmetric encryption](https://github.com/mmkdd27/CT5046-Cryptography-and-Security-Code/blob/947e61d95125a73b2e21e546adc6e3aef27dd836/2023-2024%20Material/Lectures/Week7Lecture.pdf)
+- Week 8: [Applications of Cryptography I](https://github.com/mmkdd27/CT5046-Cryptography-and-Security-Code/blob/947e61d95125a73b2e21e546adc6e3aef27dd836/2023-2024%20Material/Lectures/Week8Lecture.pdf)
+- Week 9: [Applications of Cryptography II](https://github.com/mmkdd27/CT5046-Cryptography-and-Security-Code/blob/947e61d95125a73b2e21e546adc6e3aef27dd836/2023-2024%20Material/Lectures/Week8Lecture.pdf)
+- Week 10: [Applications of Cryptography III](https://github.com/mmkdd27/CT5046-Cryptography-and-Security-Code/blob/947e61d95125a73b2e21e546adc6e3aef27dd836/2023-2024%20Material/Lectures/Week10Lecture.pdf)
 
 ### Install External libraries :
 copy and paste the code below into Windows command line 
