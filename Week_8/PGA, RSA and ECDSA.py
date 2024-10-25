@@ -68,7 +68,7 @@ def sign_file_rsa(file_path, output_signature):
 
     with open(file_path, 'rb') as file:
         data = file.read()
-        hash_obj = SHA256.new(data)
+        hash_obj = SHA512.new(data)
         signature = signer.sign(hash_obj)
 
     with open(output_signature, 'wb') as sig_file:
